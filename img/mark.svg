@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Baltis ženklas">
+  <rect width="128" height="128" rx="28" fill="#0B2E3F"/>
+  <circle cx="64" cy="48" r="26" fill="#C9A46A"/>
+  <path d="M52 74 V44 h3 v-5 h3 v5 h3 v-5 h3 v5 h3 v-5 h3 v5 h3 v30 Z" fill="#F6F1E7"/>
+  <path d="M28 80 H100 L92 93 H36 Z" fill="#F6F1E7"/>
+  <path d="M24 103 c8 -6 16 -6 24 0 s16 6 24 0 s16 -6 24 0" fill="none" stroke="#F6F1E7" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M34 112 c8 -6 16 -6 24 0 s16 6 24 0" fill="none" stroke="#F6F1E7" stroke-width="3.5" stroke-linecap="round" opacity=".55"/>
+</svg>
